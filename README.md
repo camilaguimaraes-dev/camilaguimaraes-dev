@@ -22,7 +22,7 @@ Aspiring Software Developer | Building my skills one project at a time.
 
 I'm a Systems Analysis & Development graduate currently learning JavaScript and full-stack web development.
 
-- 🌱 Currently learning JavaScript and programming fundamentals
-- 💻 Working toward building practical software projects
+- 🌱 Currently learning JavaScript and full-stack web development
+- 💻 Practicing programming fundamentals and building projects
 - 🎯 Focused on growing as a software developer
 - 🌎 Open to learning, collaboration, and new opportunities</p>&nbsp;
